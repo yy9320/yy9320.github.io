@@ -2,7 +2,7 @@
 title:              "The Plain"
 description:        "A minimalist Jekyll theme"
 author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://github.com/yy9320/yy9320.github.io/blob/master/image/yeony.jpg # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           image/yeony.jpg # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://yy9320.github.io # main url
