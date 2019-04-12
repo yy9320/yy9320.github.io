@@ -1,6 +1,6 @@
 # command라인에서 sql 파일 실행
 
-## 먼저 mysql 에 커멘드로 접속한다.
+- 먼저 mysql 에 커멘드로 접속한다.
 
 ```bash
 $ mysql –u username –p schema
@@ -22,6 +22,8 @@ $ mysql > \. /bin/test.sql
 **다음과같이 하면 바로 실행**
 
 ```bash 
-$ mysql -u username -p schema < /bin/test.sql 하게 되면 바로 실행 
+$ mysql -u username -p schema < /bin/test.sql 
+```
+위와같이 하게 되면 바로 실행 
 
 
