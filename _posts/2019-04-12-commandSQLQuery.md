@@ -1,6 +1,6 @@
-# command라인에서 sql 파일 실행
+# command 라인에서 sql 파일 실행
 
-- 먼저 mysql 에 커멘드로 접속한다.
+먼저 mysql 에 커멘드로 접속한다.
 
 ```bash
 $ mysql –u username –p schema
